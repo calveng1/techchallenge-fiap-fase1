@@ -14,3 +14,11 @@ Etapas:
 - Avaliação do modelo
   
 Membros do grupo: Prof. Dr. Amilton Martins, Calven Martins, Diego Tavares e Roberto Costa
+
+Pré-requisitos:  
+- Python 3.8 ou superior (recomenda-se 3.10+)  
+- Recomenda-se criar um ambiente virtual:
+  ```bash
+  python -m venv venv
+  source venv/bin/activate    # Linux/macOS
+  .\venv\Scripts\activate     # Windows
